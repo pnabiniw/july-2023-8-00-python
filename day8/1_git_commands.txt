@@ -1,0 +1,9 @@
+1. git remote add origin <ssh-link>
+    This command connects your local repo with your remote repo. Your remote repo will be represented
+    by name "origin"
+
+2. git remote -v
+    This command displays all the remotes connected to your local repo
+
+3. ssh-keygen -t rsa -b 4096 -C "pnabiniw@gmail.com"
+    It generates a new ssh-key for your local (laptop/pc)
