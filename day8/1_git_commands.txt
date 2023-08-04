@@ -7,3 +7,11 @@
 
 3. ssh-keygen -t rsa -b 4096 -C "pnabiniw@gmail.com"
     It generates a new ssh-key for your local (laptop/pc)
+
+4. git add .
+    It adds all the changes of the repo to git
+
+5. git commit -m "<commit-message>"
+    Commits the changes added to git
+
+6. git push origin <remote_branch_name>
