@@ -1,0 +1,5 @@
+=> While working on a professional project we do not merge codes from other branches to the main
+branch in local.
+=> The codes in the main branch should always go through a review process known as Pull Request.
+=> Pull Request is opened in the github. It can be opened by selecting two branches; one branch is the
+feature branch and another is the main branch.
