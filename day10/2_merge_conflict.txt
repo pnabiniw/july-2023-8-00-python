@@ -6,7 +6,9 @@ b = 2
 print(a * b)
 print(a - b)
 
-
 e = 1
 f = 3
 print(e + f)
+c = 5
+d = 4
+print(c - d)
