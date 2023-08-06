@@ -5,3 +5,8 @@ a = 1
 b = 2
 print(a * b)
 print(a - b)
+
+
+e = 1
+f = 3
+print(e + f)
