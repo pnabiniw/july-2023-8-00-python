@@ -3,4 +3,4 @@ is committed and the same lines of code in the other branch is also committed
 
 a = 1
 b = 2
-print(a + b)
+print(a * b)
