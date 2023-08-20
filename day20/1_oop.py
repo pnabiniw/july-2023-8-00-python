@@ -5,6 +5,12 @@
 # Classes are the blueprints of an object
 # Objects are the instance of the class
 
+# Major Features of Object-Oriented Programming
+# 1. Inheritance
+# 2. Encapsulation
+# 3. Polymorphism
+# 4. Abstraction
+
 
 class Vehicle:
     category = "car"  # This is a class attribute
