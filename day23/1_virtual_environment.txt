@@ -20,3 +20,7 @@
 5. pip freeze
     => It shows all the installed packages in the environment
 
+6. pip freeze > requirements.txt
+    => It creates a file "requirements.txt" consisting of all the packages
+7. pip install -r requirements.txt
+    => Recursively installs all the packages from requirements.txt file
