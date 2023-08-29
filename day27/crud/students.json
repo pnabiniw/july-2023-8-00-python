@@ -1,32 +1,14 @@
 [
   {
+    "id": "1",
+    "name": "Ken",
+    "age": "30",
+    "address": "KTM"
+  },
+  {
     "id": "2",
     "name": "Jane",
-    "age": "30",
-    "address": "KTM"
-  },
-  {
-    "id": "1",
-    "name": "Jon",
-    "age": "30",
-    "address": "KTM"
-  },
-  {
-    "id": "3",
-    "name": "Hary",
-    "age": "30",
-    "address": "BKT"
-  },
-  {
-    "id": "4",
-    "name": "Ken",
-    "age": "21",
-    "address": "KTM"
-  },
-  {
-    "id": "5",
-    "name": "Sita",
-    "age": "25",
-    "address": "KTM"
+    "age": "24",
+    "address": "PKR"
   }
 ]
