@@ -1,0 +1,10 @@
+1. What is ORM (Object Relational Mapping) ?
+2. What architecture does Django uses?
+3. Difference between MVC and MVT architecture.
+4. What is the ORM to get all the rows from a table?
+5. Difference in .get() and .filter() in ORM.
+6. How to handle static assets in Django?
+7. What is DEBUG=True in django settings?
+8. What is the use of SECRET_KEY in Django?
+9. What are different types of Model Relations in django?
+10. What is the use of related_name in django models?
